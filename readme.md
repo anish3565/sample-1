@@ -1,3 +1,3 @@
-## Welcome to git
+## Hello everyone, welcome to my guide!
 
-- From Anish
+- Adding this from 'dev-json'
